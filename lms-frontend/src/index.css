@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+html,
+body {
+  /* font-family: "Outfit", serif; */
+  font-family: "Host Grotesk", serif;
+  background-color: #0f0202;
+  color: #ffffff;
+}
